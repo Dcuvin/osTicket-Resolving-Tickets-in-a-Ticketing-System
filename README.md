@@ -17,7 +17,6 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (21H2)
-<a href="https://imgur.com/h5LSDCW"><img src="https://i.imgur.com/h5LSDCW.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/NMeNbmV"><img src="https://i.imgur.com/NMeNbmV.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/Ip9TKsN"><img src="https://i.imgur.com/Ip9TKsN.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/CBtaKFv"><img src="https://i.imgur.com/CBtaKFv.png" title="source: imgur.com" /></a>
