@@ -19,6 +19,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 - Windows 10 Pro</b> (21H2)
 <a href="https://imgur.com/NMeNbmV"><img src="https://i.imgur.com/NMeNbmV.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/Ip9TKsN"><img src="https://i.imgur.com/Ip9TKsN.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/WiryPYr"><img src="https://i.imgur.com/WiryPYr.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/CBtaKFv"><img src="https://i.imgur.com/CBtaKFv.png" title="source: imgur.com" /></a>
 <p>For the first example, I will sign-in as User jack_hill and create A Sev-A ticket where the entire banking system is down. For the second example, I will sign-in as User jill_hill and create a Sev-B ticket where the entire accounting department is in dire need of upgrade. Finally I will sign-in back as jack_hill and create a Sev-C ticket claiming slow performance on the CFO's laptop.</p>
 
