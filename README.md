@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configurations</h1>
 
-<h2>Goal: Demonstratethe creation, triaging, and solving of tickets within osTicket</h2>
+<h2>Goal: Demonstrate the creation, triaging, and solving of tickets within osTicket</h2>
 
 This lab demonstrates the necessary changes I make to configure osTicket so it can be used as a proper ticketing system. I will then create a series of tickets that corresponding to each SLA level.<br />
 
